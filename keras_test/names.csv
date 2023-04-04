@@ -1,0 +1,76 @@
+code,word
+A,Analityka
+AA,Badania laboratoryjne i inne
+A01,Badanie ogólne moczu profil
+A03,Badanie p³ynu mózgowo rdzeniowego
+A05,Badanie p³ynu z jamy cia³a op³ucnej otrzewnej
+A07,Bia³ko w moczu
+A09,Bilirubina w moczu
+A11,Cia³a ketonowe w moczu
+A12,Ciê¿ar w³aœciwy moczu
+A13,Erytrocyty hemoglobina w moczu
+A14,Leukocyty w moczu
+A15,Glukoza w moczu
+A17,Krew utajona w kale
+A19,Osad moczu
+A21,Paso¿yty jaja paso¿ytów w kale
+A23,Resztki pokarmowe w kale
+A25,Urobilinogen w moczu
+C,Morfologia krwi badania hematologiczne
+C01,Erytroblasty
+C02,Erytrocyty liczba
+C03,Erytrocyty opornoœæ osmotyczna
+C05,Erytrocyty próba Hama
+C07,Erytrocyty próba sacharozowa
+C09,Erytrogram
+C10,Inne antygeny grupowe krwinek czerwonych
+C11,Fosfataza zasadowa granulocytów
+C13,Granulocyty badanie aktywnoœci fagocytarnej
+C15,Granulocyty zasadoch³onne test bezpoœredniej degranulacji
+C19,Hemoglobina rozdzia³
+C21,Leukocyty badanie aktywnoœci peroksydazy POX
+C23,Leukocyty badanie aktywnoœci esterazy nieswoistej
+C27,Leukocyty badanie immunofenotypowe komórek blastycznych
+C29,Leukocyty - barwienie sudanem czarnym B
+C30,Leukocyty - liczba
+C31,Leukocyty - reakcja PAS
+C32,Leukocyty - obraz odsetkowy
+C33,Limfadenogram
+C35,Limfoblasty
+C37,Limfocyty B
+C39,Limfocyty BCD5+
+C41,Limfocyty T
+C43,Limfocyty TCD4+
+C45,Limfocyty TCD8+
+C47,Metamielocyty
+C49,Mieloblasty
+C51,Mielogram
+C53,Morfologia krwi 8-parametrowa
+C55,"Morfologia krwi, z pe³nym ró¿nicowaniem granulocytów"
+C57,Objêtoœæ krwi kr¹¿¹cej
+C59,Odczyn opadania krwinek czerwonych
+C60,P³ytki krwi - inne badania
+C61,P³ytki krwi - badanie adhezji
+C63,P³ytki krwi - badanie agregacji
+C64,P³ytki krwi - agregacja pod wp³ywem ró¿nych stê¿eñ ristocetyny (test RIPA)
+C65,P³ytki krwi - czas prze¿ycia
+C66,P³ytki krwi - liczba
+C67,Promielocyty
+C69,Retykulocyty
+C71,Splenogram
+C73,Test hamowania migracji makrofagów
+C81,P³ytki krwi - ocena ekspresji GPIb/ IX/ V
+C82,P³ytki krwi - ocena ekspresji GPIIb/ IIIa
+C83,P³ytki krwi - czas okluzji
+E,Serologia grup krwi
+E05,Badanie w kierunku nieregularnych przeciwcia³
+E20,Próba zgodnoœci serologicznej
+E21,Diagnostyka konfliktu matczyno-p³odowego
+E31,Kwalifikacja do podania immunoglobuliny anty-Rh(D)
+E64,Diagnostyka niedokrwistoœci autoimmunohemolitycznej
+E65,Oznaczenie grupy krwi uk³adu ABO i Rh
+F,Wirusologia
+F01,Adenovirus Antygen
+F03,Adenovirus Przeciwcia³a IgA (anty-Adenovirus IgA)
+F05,Adenovirus Przeciwcia³a IgG (anty-Adenovirus IgG)
+F07,Adenovirus Przeciwcia³a IgM (anty-Adenovirus IgM)
