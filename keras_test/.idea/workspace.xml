@@ -2,10 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9b71bd-e549-4e10-8f90-a12abb4ac525" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A01.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A03.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A05.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A07.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A09.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A12.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A13.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A14.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A15.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A17.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A19.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A21.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A23.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A25.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C13.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C15.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C19.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C21.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C23.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C27.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C29.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C30.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C31.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C32.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C33.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C35.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C37.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C39.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C41.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C43.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C45.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C47.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C49.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C51.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C53.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C55.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C57.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C59.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C60.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C61.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C63.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C64.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C65.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C66.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C67.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C69.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C71.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C73.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C81.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C82.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C83.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E05.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E20.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E21.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E31.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E64.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E65.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F01.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F03.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F05.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,14 +96,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="get_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="keras_test" />
@@ -94,6 +165,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679647967394</updated>
       <workItem from="1679647968694" duration="4991000" />
+      <workItem from="1680640723204" duration="14420000" />
+      <workItem from="1680695693101" duration="9091000" />
     </task>
     <servers />
   </component>
@@ -113,6 +186,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/keras_test$get_names.coverage" NAME="get_names Coverage Results" MODIFIED="1679648686142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/keras_test$main.coverage" NAME="main Coverage Results" MODIFIED="1679652967292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/keras_test$main.coverage" NAME="main Coverage Results" MODIFIED="1680706202877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
