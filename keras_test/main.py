@@ -9,6 +9,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 # TRAINING
+train_data_amount = 100
 train_dir = 'train/'
 test_dir = 'test/'
 mp3_files = []
@@ -20,7 +21,7 @@ num_frames = 50 #50
 df = pd.read_excel('sheets_with_data.xlsx',engine='openpyxl',dtype=object,header=0)
 excelList:list = df.values.tolist()
 
-for i in range(74):
+for i in range(train_data_amount):
     oneRow=excelList[i]
     mp3_files.append(train_dir + oneRow[8] + mp3_ext)
     labels.append(oneRow[9])
@@ -85,14 +86,15 @@ model.add(Dense(len(y), activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
 
 # Train model
-model.fit(X, y, batch_size=32, epochs=20)
+model.fit(X, y, batch_size=32, epochs=25)
 
 # TEST
 
+test_data_amount = 30
 mp3_files_test = []
 labels_test = []
 
-for i in range(30):
+for i in range(test_data_amount):
     oneRow=excelList[i]
     mp3_files_test.append(test_dir + str(i) + mp3_ext)
     labels_test.append(oneRow[9])
