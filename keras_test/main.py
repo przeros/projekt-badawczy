@@ -1,10 +1,9 @@
-import tensorflow.compat.v2 as tf
-import numpy as np
 import librosa
-from sklearn.model_selection import train_test_split
-from keras.models import Sequential
-from keras.layers import Conv2D, MaxPooling2D, Flatten, LSTM, Dense
+import numpy as np
 import pandas as pd
+from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
+from keras.models import Sequential
+from sklearn.model_selection import train_test_split
 
 mp3_files = []
 labels = []
